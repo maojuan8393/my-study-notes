@@ -1,6 +1,14 @@
 # 我的学习笔记
 
-**这是一个记录我学习 Markdown 和 GitHub 历程的项目。**
+# 朱安宜
+
+## 北京
+
+- 旅游
+- 美甲
+- 睡觉
+
+**持续学习，持续成长.****这是一个记录我学习 Markdown 和 GitHub 历程的项目。**
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
 ## 学习计划
