@@ -1,10 +1,18 @@
-# my-study-notes
-# Maojuan
+# 我的学习笔记
 
-## beijing
+**这是一个记录我学习 Markdown 和 GitHub 历程的项目。**
+![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
-- Programming
-- Reading
-- Hiking
+## 学习计划
 
-**Keep learning, keep growing.**
+* [x] 第一天：文档结构
+* [x] 第二天：进阶元素
+* [ ] 第三天：GitHub 实战练习
+
+## 日程表
+
+| 日期 | 内容 |
+| --- | --- |
+| 2023-10-01 | 基础知识 |
+| 2023-10-02 | 进阶技巧 |
+| 2023-10-03 | 实战练习 |
